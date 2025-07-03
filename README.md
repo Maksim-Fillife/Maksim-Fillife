@@ -12,9 +12,9 @@
 #### 🤖 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white) 
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)   
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white)  
 
 #### ⚙️   
@@ -36,7 +36,7 @@
 ![DBeaver](https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=white)
 
 #### 📱
-![BrowserStack](https://img.shields.io/badge/-Browserstack-0A9EDC?logo=browserstack&logoColor=white)  
+![BrowserStack](https://img.shields.io/badge/-Browserstack-0A9EDC?logo=browserstack&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white)   
 
 #### 📊
