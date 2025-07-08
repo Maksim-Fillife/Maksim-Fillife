@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Maxim.
+# 👋 Hi! I'm Maksim.
 
 ### 🔍 About Me
 - 🏢 **Current Position**: Quality Assurance Engineer at [SimbirSoft](https://simbirsoft.com/)  
