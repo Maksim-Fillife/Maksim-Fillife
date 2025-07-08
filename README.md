@@ -2,7 +2,7 @@
 
 ### 🔍 About Me
 - 🏢 **Current Position**: Quality Assurance Engineer at [SimbirSoft](https://simbirsoft.com/)  
-- 💻 **Core Expertise**: Manual and automated testing of **Web applications**   
+- 💻 **Core Expertise**: Manual testing of **Web applications**   
 - 🚀 **Expanding Skills**:  
   - Test automation (Web/Mobile)  
   - **Mobile testing** (Android/iOS)
